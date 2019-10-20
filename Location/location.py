@@ -33,7 +33,7 @@ coords_2 = (26.9898773,75.8679118)
 
 print (geopy.distance.vincenty(coords_1, coords_2).meters)
 k=geopy.distance.vincenty(coords_1, coords_2).meters
-if(k<2000):
+if(k<1000):
     import requests
     import json
 
