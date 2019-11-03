@@ -13,4 +13,5 @@ Traffic Signal Optimization: By processing live videos via CCTV footages on the 
 Connecting cars: This module has been created with the intention of assisting the ambulances in taking their patients to the hospital on time. Once the ambulance defines its path to the hospital based on its real time location all the cars within a distance of 1km in front of its defined path with get an alert SMS notifying that there is an ambulance wanting to come through and the direction the car should move to.
 
 # How to use
-- 
+- Run extra.py to see how module 1 is working.
+- Run Connected_vehicle.py to see how module 2 is working.
